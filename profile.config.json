@@ -1,52 +1,92 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Akram Junaidi",
+    "name": "Akram Junaidi (aKAI)",
     "username": "akramjunaidi",
-    "headline": "Student & Tech Enthusiast",
+    "headline": "Creative Web Designer",
     "affiliation": "UIN Mataram",
-    "location": "Mataram, Indonesia",
-    "status": "Learning / Building / Exploring",
+    "location": "Mataram, NTB, Indonesia",
+    "status": "Learning, Building, Exploring",
     "about": [
-      "Fokus pada eksplorasi pemrosesan data, pemodelan algoritma, dan sistem perangkat lunak terstruktur.",
-      "Suka memadukan analisis logika dengan pendekatan teknis untuk membangun proyek yang bermanfaat."
+      "Mendesain antarmuka (UI/UX) dan mengembangkan web interaktif.",
+      "Fokus konversi landing page, sistem desain, dan otomatisasi."
     ]
   },
   "research": {
-    "primary": "Data Analysis & Algorithms",
-    "direction": "Efficient & reliable systems",
-    "themes": "Python / Optimization / Databases",
-    "narrative": "Fokus pada pengembangan algoritma optimasi, analisis data, dan integrasi basis data untuk aplikasi praktis."
+    "primary": "Brand, Web Design & UI/UX",
+    "direction": "Product Design & Frontend",
+    "themes": "Design System, Landing Page",
+    "narrative": "Fokus pengembangan desain produk, konversi web, dan rekayasa UI."
   },
   "focus": [
     {
-      "name": "Python & Data Science",
-      "description": "Pengolahan data, visualisasi, dan pemrosesan algoritma."
+      "name": "Web & UI/UX Design",
+      "description": "Perancangan tata letak, desain, dan pengalaman pengguna."
     },
     {
-      "name": "Database & AI Systems",
-      "description": "Perancangan basis data dan integrasi logika aplikasi cerdas."
+      "name": "Frontend Dev",
+      "description": "Pengembangan antarmuka website dan otomatisasi web."
     },
     {
-      "name": "Graphic Design & Branding",
-      "description": "Visual branding, penyusunan tata letak, dan perancangan media digital."
+      "name": "Brand Identity",
+      "description": "Pembuatan identitas visual dan sistem desain konsisten."
     }
   ],
   "projects": [
     {
-      "name": "SQLSense",
-      "url": "https://github.com/USERNAME_GITHUB_KAMU/SQLSense",
+      "name": "Batur Travel",
+      "url": "",
       "homepage": "",
-      "focus": "AI & Database Integration",
-      "summary": "Aplikasi integrasi AI dengan manajemen basis data untuk pengelolaan data yang lebih cerdas.",
-      "heroLabel": "Featured Project"
+      "focus": "GDG Live Indonesia",
+      "summary": "Desain & pengembangan platform wisata Batur Travel Lombok.",
+      "heroLabel": "2026"
+    },
+    {
+      "name": "Inspire Project",
+      "url": "",
+      "homepage": "",
+      "focus": "Islamic Relief ID",
+      "summary": "Inisiatif sosial berkolaborasi dengan Islamic Relief.",
+      "heroLabel": "2026"
+    },
+    {
+      "name": "AI Academic Asst",
+      "url": "",
+      "homepage": "",
+      "focus": "BRIN",
+      "summary": "Pengembangan asisten akademik AI untuk riset nasional.",
+      "heroLabel": "2026"
+    },
+    {
+      "name": "Aerodinamika",
+      "url": "",
+      "homepage": "",
+      "focus": "Science Civilization",
+      "summary": "Kajian aerodinamika terapan pada penerbangan gliding.",
+      "heroLabel": "2025"
+    },
+    {
+      "name": "Gitsight",
+      "url": "",
+      "homepage": "",
+      "focus": "AI-Powered Branding",
+      "summary": "Ekosistem branding developer berbasis teknologi AI.",
+      "heroLabel": "2025"
+    },
+    {
+      "name": "KSByte Tourism",
+      "url": "",
+      "homepage": "",
+      "focus": "BRIDA West Sumbawa",
+      "summary": "Platform pariwisata digital untuk BRIDA Sumbawa Barat.",
+      "heroLabel": "2025"
     }
   ],
   "techStack": [
-    "Python",
-    "NumPy",
-    "Matplotlib",
-    "SQL",
+    "Figma",
+    "UI/UX Design",
+    "HTML/CSS",
+    "JavaScript",
     "Git"
   ],
   "links": [
@@ -56,6 +96,13 @@
       "url": "https://github.com/akramjunaidi",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "akramjunaidi",
+      "url": "https://www.linkedin.com/in/akramjunaidi",
+      "logo": "linkedin",
+      "color": "0A66C2"
     }
   ],
   "activity": {
@@ -65,5 +112,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building thoughtful designs and sharing what works."
 }
