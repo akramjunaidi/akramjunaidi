@@ -1,0 +1,69 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Akram Junaidi",
+    "username": "akramjunaidi",
+    "headline": "Student & Tech Enthusiast | Python & Data Analysis",
+    "affiliation": "UIN Mataram",
+    "location": "Mataram, Indonesia",
+    "status": "Learning / Building / Exploring",
+    "about": [
+      "Fokus pada eksplorasi pemrosesan data, pemodelan algoritma, dan sistem perangkat lunak terstruktur.",
+      "Suka memadukan analisis logika dengan pendekatan teknis untuk membangun proyek yang bermanfaat."
+    ]
+  },
+  "research": {
+    "primary": "Data Analysis & Algorithms",
+    "direction": "Efficient & reliable systems",
+    "themes": "Python / Optimization / Databases",
+    "narrative": "Fokus pada pengembangan algoritma optimasi, analisis data, dan integrasi basis data untuk aplikasi praktis."
+  },
+  "focus": [
+    {
+      "name": "Python & Data Science",
+      "description": "Pengolahan data, visualisasi, dan pemrosesan algoritma."
+    },
+    {
+      "name": "Database & AI Systems",
+      "description": "Perancangan basis data dan integrasi logika aplikasi cerdas."
+    },
+    {
+      "name": "Graphic Design & Branding",
+      "description": "Visual branding, penyusunan tata letak, dan perancangan media digital."
+    }
+  ],
+  "projects": [
+    {
+      "name": "SQLSense",
+      "url": "https://github.com/USERNAME_GITHUB_KAMU/SQLSense",
+      "homepage": "",
+      "focus": "AI & Database Integration",
+      "summary": "Aplikasi integrasi AI dengan manajemen basis data untuk pengelolaan data yang lebih cerdas.",
+      "heroLabel": "Featured Project"
+    }
+  ],
+  "techStack": [
+    "Python",
+    "NumPy",
+    "Matplotlib",
+    "SQL",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "akramjunaidi",
+      "url": "https://github.com/akramjunaidi",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building thoughtful systems and sharing what works."
+}
