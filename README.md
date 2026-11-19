@@ -50,12 +50,12 @@ Fokus pengembangan desain produk, konversi web, dan rekayasa UI.
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 18, 2026: pushed 1 commit to [akramjunaidi/Pemrograman-Web](https://github.com/akramjunaidi/Pemrograman-Web).
 - Nov 15, 2026: pushed 1 commit to [akramjunaidi/Analisis-Numerik](https://github.com/akramjunaidi/Analisis-Numerik).
 - Nov 13, 2026: pushed 1 commit to [akramjunaidi/Analisis-Numerik](https://github.com/akramjunaidi/Analisis-Numerik).
 - Nov 3, 2026: pushed 1 commit to [akramjunaidi/Analisis-Numerik](https://github.com/akramjunaidi/Analisis-Numerik).
 - Oct 26, 2026: pushed 1 commit to [akramjunaidi/Pemrograman-Web](https://github.com/akramjunaidi/Pemrograman-Web).
 - Oct 24, 2026: pushed 1 commit to [akramjunaidi/Analisis-Numerik](https://github.com/akramjunaidi/Analisis-Numerik).
-- Oct 23, 2026: pushed 1 commit to [akramjunaidi/Teknologi-Basis-Data](https://github.com/akramjunaidi/Teknologi-Basis-Data).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
